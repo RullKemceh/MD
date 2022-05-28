@@ -18,18 +18,18 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285162634171','0','6285748894171']
-global.pemilik = ['6285748894171']
-global.premium = ['6285162634171']
-global.pengguna = 'Nakata'
-global.botnma = 'NahBotz-MD'
-global.footer = 'Nakataa' //FooterText Biar Di Bawah Nya Ada Text 
-global.web = 'https://youtube.com/c/NakataZ' // Ubah Sama Lu Web Nya Bebas 
-global.web2 = 'https://github.com/nakataaard' //Ubah Jga Bebas Sama lu 
-global.ganti = 'Y O U T U B E ME' //Edit Terserah Lu Mau Apa
-global.ganti2 = 'Github'
-global.ownernma = 'Nakataa'
-global.packname = 'NahBotz'
+global.owner = ['6285859047172','0','6285859047172']
+global.pemilik = ['6285859047172']
+global.premium = ['6285859047172']
+global.pengguna = 'Nagatoro'
+global.botnma = 'NagatoroBot'
+global.footer = 'Nagatoro' //FooterText Biar Di Bawah Nya Ada Text 
+global.web = 'https://lynk.id/nagatoro' // Ubah Sama Lu Web Nya Bebas 
+global.web2 = 'https://lynk.id/nagatoro' //Ubah Jga Bebas Sama lu 
+global.ganti = 'Website Offical' //Edit Terserah Lu Mau Apa
+global.ganti2 = 'Grub Bot'
+global.ownernma = 'RullSenpai'
+global.packname = 'NagatoroBotz'
 global.author = 'NahBotz'
 global.sessionName = 'nahh'
 global.prefa = ['','!','.','🐦','🐤','🗿']
